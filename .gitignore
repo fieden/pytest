@@ -1,0 +1,7 @@
+*.md
+*.txt
+*.csv
+\.*
+__*
+!.github
+!.gitignore
